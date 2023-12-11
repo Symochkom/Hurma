@@ -8,7 +8,7 @@ Tests for checking tariff-page on [Hurma site](https://hurma.work/)
 ### Steps for local deployment
 1. Clone the Hurma project
 ```sh
-git clone https://github.com/Symochkom/Hurma.git hurmatmp
+git clone https://github.com/Symochkom/Hurma.git
 ```
 2. Install the following packages:
 ```sh
