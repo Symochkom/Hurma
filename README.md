@@ -1,6 +1,8 @@
 # Hurma app tests
 Tests for checking tariff-page on [Hurma site](https://hurma.work/)
 
+[Test case file](HURMA-Test+run+2023_12_09.pdf)
+
 ### Pre-conditions list:
 - Node.js v18.10.0
 - Firefox Browser latest version
